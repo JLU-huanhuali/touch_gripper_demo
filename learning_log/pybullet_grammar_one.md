@@ -1,4 +1,5 @@
-# PyBullet Basic Grammar
+# PyBullet Basic Grammar 
+## Day one 
 
 ## 1. `p.setAdditionalSearchPath(pybullet_data.getDataPath())`
 
